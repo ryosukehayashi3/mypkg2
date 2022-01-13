@@ -16,10 +16,10 @@ This is a ROS pkg repository.
 `$ rosrun mypkg2 count.py`  
 3つ目の端末で  
 `$ rosrun mypkg2 twice.py`  
-4つ目の端末で
-`$ rostopic echo /twice`　　
+4つ目の端末で  
+`$ rostopic echo /twice`  
 このようにそれぞれ実行していく  
-rosrunをする際は`$ chmod +x ファイル名`としてください
+rosrunをする際は`$ chmod +x ファイル名`としてからrosrunするようにしてください。
 ***
 ## 実行した動画
 https://www.youtube.com/watch?v=WAhh1Q1Mjp4  
