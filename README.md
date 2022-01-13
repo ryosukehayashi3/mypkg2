@@ -10,10 +10,16 @@ This is a ROS pkg repository.
 `$ cd ..`  
 `$ catkin_make` 
 
+1つ目の端末で  
 `$ roscore`  
+2つ目の端末で  
 `$ rosrun mypkg2 count.py`  
+3つ目の端末で  
 `$ rosrun mypkg2 twice.py`  
+4つ目の端末で
 `$ rostopic echo /twice`　　
+このようにそれぞれ実行していく  
+rosrunをする際は`$ chmod +x ファイル名`としてください
 ***
 ## 実行した動画
 https://www.youtube.com/watch?v=WAhh1Q1Mjp4  
