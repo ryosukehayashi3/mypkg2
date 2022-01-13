@@ -19,5 +19,5 @@ This is a ROS pkg repository.
 https://www.youtube.com/watch?v=WAhh1Q1Mjp4  
 ***
 ## ライセンス
-[BSD 3-Clause License]https://github.com/ryosukehayashi3/mypkg2/blob/main/LICENSE
+[BSD 3-Clause License](https://github.com/ryosukehayashi3/mypkg2/blob/main/LICENSE)
 
